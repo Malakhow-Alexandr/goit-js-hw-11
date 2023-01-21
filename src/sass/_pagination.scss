@@ -38,7 +38,7 @@
 }
 
 .search-btn__icon {
-  fill: $title-text-color;
+  fill: $icon-fill;
   transition: fill $animation-duration $timing-function,
   transform $animation-duration $timing-function;
   .search-btn:hover & {
